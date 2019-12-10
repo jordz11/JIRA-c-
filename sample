@@ -1,0 +1,3 @@
+webRBrowser1.document.GetElementByID("loginEmail").InnerText = "text"
+webRBrowser1.document.GetElementByID("loginPass").InnerText = "text"
+webRBrowser1.document.GetElementByID("loginEmail").InvokeMember("click")"
